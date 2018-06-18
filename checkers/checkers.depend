@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1527672377 source:h:\cpp\checkers\checkers\board.cpp
+	<iostream>
+	<windows.h>
+	"board.h"
+	"gameplay.h"
+	<string>
+	<conio.h>
+
+1527583667 h:\cpp\checkers\checkers\board.h
+
+1527664429 source:h:\cpp\checkers\checkers\main.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+	"gameplay.h"
+	"board.h"
+
+1526027877 h:\cpp\checkers\checkers\menu.h
+
+1524818068 h:\cpp\checkers\checkers\main.h
+
+1527580831 source:h:\cpp\checkers\checkers\menu.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+	"board.h"
+	"gameplay.h"
+
+1527580486 h:\cpp\checkers\checkers\gameplay.h
+
+1528918010 source:c:\users\dima\desktop\checkers\checkers\main.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+	"gameplay.h"
+	"board.h"
+
+1528978470 c:\users\dima\desktop\checkers\checkers\menu.h
+
+1527580486 c:\users\dima\desktop\checkers\checkers\gameplay.h
+
+1528537457 c:\users\dima\desktop\checkers\checkers\board.h
+
+1528979157 source:c:\users\dima\desktop\checkers\checkers\menu.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+	"board.h"
+	"gameplay.h"
+
+1528917385 source:c:\users\dima\desktop\checkers\checkers\board.cpp
+	<iostream>
+	<windows.h>
+	"board.h"
+	"gameplay.h"
+	<string>
+	<conio.h>
+
+1529261928 source:c:\users\dima\pictures\что-то своё\c++\checkers\board.cpp
+	<iostream>
+	<windows.h>
+	"board.h"
+	"gameplay.h"
+	<string>
+	<conio.h>
+
+1529228525 c:\users\dima\pictures\что-то своё\c++\checkers\board.h
+
+1529228525 c:\users\dima\pictures\что-то своё\c++\checkers\gameplay.h
+	<iostream>
+
+1529260638 source:c:\users\dima\pictures\что-то своё\c++\checkers\main.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+	"gameplay.h"
+	"board.h"
+
+1529260600 c:\users\dima\pictures\что-то своё\c++\checkers\menu.h
+
+1529261857 source:c:\users\dima\pictures\что-то своё\c++\checkers\menu.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+	"board.h"
+	"gameplay.h"
+
